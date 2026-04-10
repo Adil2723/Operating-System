@@ -2,17 +2,17 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Course-Operating System-blue" />
-  <img src="https://img.shields.io/badge/Semester-3rd-orange" />
+  <img src="https://img.shields.io/badge/Semester-4th-orange" />
   <img src="https://img.shields.io/badge/Focus-Systems Programming-green" />
 </p>
 
-<h3 align="center">⚙️ Labs • Assignments • Concepts • Projects</h3>
+<h3 align="center">⚙️ Labs • Assignments • Concepts</h3>
 
 ---
 
 ## 📖 Overview  
 
-This repository contains **lab work, assignments, quizzes, and projects** completed during the **Operating Systems (OS)** course.
+This repository contains **lab work, assignments** completed during the **Operating Systems (OS)** course.
 
 It focuses on understanding **core OS concepts**, including **process management, memory management, concurrency, and file systems**, along with practical implementations.
 
@@ -34,15 +34,6 @@ It focuses on understanding **core OS concepts**, including **process management
 
 ---
 
-### 📊 Quizzes  
-- Concept-based assessments for understanding key topics  
-
----
-
-### 🧠 Projects  
-- Practical implementations of OS concepts such as threading and concurrency  
-
----
 
 ## 🧠 Topics Covered  
 
@@ -91,7 +82,23 @@ It focuses on understanding **core OS concepts**, including **process management
 
 ## ▶️ How to Run  
 
-### 💻 For C/C++ Programs  
+---
 
-1. Open project in **VS Code / Visual Studio**  
-2. Compile using compiler:
+### 🐧 Ubuntu (gedit + GCC)  
+
+1. Open terminal  
+2. Navigate to your file location  
+3. Open file using gedit (optional):  
+4. Compile using GCC:
+5. Run the program:
+   
+
+---
+
+### 💻 VS Code / Visual Studio  
+
+1. Open project  
+2. Compile using GCC or built-in compiler  
+3. Run program  
+
+---
