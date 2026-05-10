@@ -63,26 +63,5 @@ It focuses on understanding **core OS concepts**, including **process management
 
 ---
 
-## ▶️ How to Run  
-
-### 🐧 Ubuntu (gedit + GCC)  
-
-1. Open terminal  
-2. Navigate to your file location  
-3. Open file using gedit (optional):  gedit filename.c 
-4. Compile using GCC:  gcc filename.c -o output
-5. Run the program:  ./output
-
-
----
-
-### 💻 VS Code / Visual Studio  
-
-1. Open project  
-2. Compile using GCC or built-in compiler  
-3. Run program  
-
----
-
 
 
