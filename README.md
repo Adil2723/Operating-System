@@ -104,28 +104,6 @@ The repository focuses on both **theoretical concepts** and **practical implemen
   <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,git,github,vscode" />
 </p>
 
----
-
-# 🚀 Getting Started
-
-## Clone Repository
-
-```bash
-git clone <repository-link>
-```
-
-## Move Into Directory
-
-```bash
-cd Operating-Systems
-```
-
-## Compile Program
-
-```bash
-g++ filename.cpp -o output
-./output
-```
 
 ---
 
